@@ -1,0 +1,1 @@
+A console based application to get current weather information of given City.
